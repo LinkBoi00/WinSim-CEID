@@ -2,7 +2,7 @@
 
 WinSim is a proprietary simulator for an in-house microcontrollable board developed in 1997 at CEID, UPatras by Professor Dimitrios Nikolos. The simulator has basic copy protection which this repo aims to bypass by patching out the relevant calls. Obviously, we are not providing you with the executable, as this would violate national copyright law.
 
-Tested with Python 3.11 and 3.12
+Tested and working with Python 3.10 and greater
 
 ## Installation
 
